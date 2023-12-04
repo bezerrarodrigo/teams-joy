@@ -8,22 +8,19 @@
         "./src/assets/*"
       ],
       "@components/*": [
-      "./src/components/*"
+        "./src/components/*"
       ],
       "@routes/*": [
-      "./src/routes/*"
+        "./src/routes/*"
       ],
       "@screens/*": [
-      "./src/screens/*"
+        "./src/screens/*"
       ],
       "@storage/*": [
-      "./src/storage/*"
-      ],
-      "@theme/*": [
-      "./src/theme/*"
+        "./src/storage/*"
       ],
       "@utils/*": [
-      "./src/utils/*"
+        "./src/utils/*"
       ]
     }
   }

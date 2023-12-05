@@ -1,9 +1,8 @@
-import {Container, Title} from './styles'
+import {Container} from './styles';
 
 const Groups = () => {
   return (
     <Container>
-      <Title>Groups Component</Title>
     </Container>
   );
 };
